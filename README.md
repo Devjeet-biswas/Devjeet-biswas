@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Devjeet-biswas
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on data science development
+- 📫 How to reach me devjeetbiswas9899@gmil.com
